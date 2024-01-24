@@ -1,0 +1,31 @@
+ul {
+  background-color: chocolate;
+  color: aliceblue;
+}
+
+ul#hi {
+  background-color: aqua;
+
+  color: red;
+}
+
+ul.hello {
+  background-color: blue;
+}
+.text-red {
+  color: red;
+}
+
+p {
+  color: darkgoldenrod;
+}
+
+button {
+  border: none;
+  border-radius: 26px;
+  padding: 14px 0;
+  background-color: blue;
+
+  width: 100px;
+  color: aliceblue;
+}
